@@ -6,3 +6,7 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+console.log('test')
+console.log('test 2')
+
